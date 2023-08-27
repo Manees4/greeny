@@ -1,0 +1,156 @@
+*{
+    padding: 0%;
+    margin:0%
+}
+
+.header{
+
+    position: fixed;
+    width: 100%;
+    top:0%;
+    background-color: aquamarine;
+    padding: 10px;
+    border: outset 
+    
+}
+
+.bye{
+    display: inline;
+    margin-right: 0%;
+    
+}
+.one{
+    
+    display: inline;
+    margin-left: 60%;
+    
+}
+li{
+    display: inline;
+    padding: 20px; 
+    color: black;
+}
+li:hover{
+    color: gray;
+}
+.shop{
+padding: 50px;
+background-color: aquamarine;
+
+}
+img{
+    float: right;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+button{
+    color: aliceblue;
+    background-color: black;
+    size: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+h3{
+    font-size: small;
+}
+.about{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+
+}
+.box{
+    display: flex;  
+  flex-direction: column;
+    border: solid black 2px;
+    width:250px;
+    align-items: center;
+    padding: 20px;
+
+}
+
+
+.About{
+    text-align: center;
+}
+.site{ text-align: center;}
+.product{text-align: center; 
+    padding:10px
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+    
+    
+    
+}
+.a,.c{
+    position: relative;
+    bottom: 50px;
+}
+.m{
+    background-color: aquamarine;
+    text-align: center;
+}
+.k{
+
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+.customer{
+    background-color: aquamarine;
+    padding: 20px;
+    display: flex;
+    
+   
+}
+.girl{
+    float: left;
+    padding: 50px;
+    
+}
+.seller{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.q{text-align: center;}
+.t{
+    margin-left: 100px;
+    padding-top: 10px;
+    
+}
+.boy{
+    position: relative;
+    bottom: 70px;
+    
+}
+.join{
+    text-align: center;
+    padding: 30px;
+    
+}
+.searchbar{
+    display: flex;
+    border: solid black 2px;
+    width: 35%;
+    padding: 10px;
+    margin-left: 30%;
+}
+.nm{padding: 20px;}
+.end{
+    padding: 30px;
+    background-color: aquamarine;
+}
+.over{
+    color: gray;
+    font-size: small;
+
+}
